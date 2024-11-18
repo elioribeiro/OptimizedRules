@@ -1,4 +1,4 @@
-antecedentes;consequentes;Sup(A);Sup(B);Sup(A=>B);Conf(A=>B);Lift(A=>B)
+antecedents;consequents;Sup(A);Sup(B);Sup(A=>B);Conf(A=>B);Lift(A=>B)
 A_CreateApplication-A_Submitted-A_Denied;O_Refused;0.998745295;0.992890004;0.992890004;0.994137353;1.0013
 A_Submitted-A_Concept-A_Denied;O_Refused;0.999;0.993;0.993;0.994;1.001
 A_Submitted-W_Callafteroffers-A_Denied;O_Refused;0.998745295;0.992890004;0.992890004;0.994137353;1.0013
